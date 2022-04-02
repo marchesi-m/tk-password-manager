@@ -9,8 +9,8 @@ encrypted passwords.
 **When you create an account, you must note down your username and password.**
 ## ⭐ Main Features
 
-- Use of SQLite3 module to store encrypted passwords and login data
-- Hash function which encrypts the master password
+- Use of SQLite3 module to store encrypted passwords and login data in a database
+- Hash function which encrypts the key generated with the master password
 - Able to add, delete and show password records 
 - Can copy to clipboard the password associated with a record
 - Use of Fernet symmetric encryption for passwords and database information
