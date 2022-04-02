@@ -16,8 +16,6 @@ encrypted passwords.
 - Use of Fernet symmetric encryption for passwords and database information
 
 
-
-
 ## 🖥 GUI Screenshots
 
 ![create_account_tab](images/create_account_tab.png)
@@ -77,3 +75,8 @@ plain password and username.
 - Once logged in, the program personalizes the page by adding your avatar and name to it.
 
 
+## ▶ Future Improvements
+
+- Add commands to modify a password record and the master password
+- Use the email given by the user to recover the master password and username if they are forgotten
+- Include a password generator inside the GUI
